@@ -5,5 +5,5 @@ metadata:
   labels:
     app: pingapp
 data:
-  CONFIG_LOCATION: /mydata/config.json
+  CONFIG_LOCATION: Rodrigo
   DEVELOPER: Rodrigo 
